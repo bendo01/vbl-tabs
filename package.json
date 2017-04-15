@@ -1,0 +1,22 @@
+{
+    "name": "vbl-tabs",
+    "version": "0.0.1",
+    "description": "Tabs component for vbl",
+    "main": "src/Tabs.vue",
+    "peerDependencies": {
+        "bulma": ">=0.1",
+        "vue": ">=2"
+    },
+    "repository": "vbl-tabs",
+    "keywords": [
+        "vue",
+        "bulma",
+        "laravel",
+        "vbl",
+        "vbl-component",
+        "vbl-tabs",
+        "tabs"
+    ],
+    "author": "Benny Leonard Enrico Panggabean <bendo01@gmail.com>",
+    "license": "MIT"
+}

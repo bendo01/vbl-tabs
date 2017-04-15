@@ -1,6 +1,6 @@
 {
     "name": "vbl-tabs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Tabs component for vbl",
     "main": "src/Tabs.vue",
     "peerDependencies": {

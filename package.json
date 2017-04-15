@@ -1,10 +1,10 @@
 {
     "name": "vbl-tabs",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Tabs component for vbl",
-    "main": "src/Tabs.vue",
+    "main": "src/index.js",
     "peerDependencies": {
-        "bulma": ">=0.1",
+        "bulma": ">=0.3",
         "vue": ">=2"
     },
     "repository": "vbl-tabs",

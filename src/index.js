@@ -3,5 +3,5 @@ import Tab from './Tab';
 'use strict';
 export {
   Tabs,
-  Tab,
+  Tab
 }

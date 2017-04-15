@@ -1,6 +1,6 @@
 {
     "name": "vbl-tabs",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Tabs component for vbl",
     "main": "src/index.js",
     "peerDependencies": {

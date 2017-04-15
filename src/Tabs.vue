@@ -14,8 +14,6 @@
 </template>
 <script>
 'use strict';
-import Vue from 'vue';
-import Tab from './Tab'
 export default {
     data () {
         return {
